@@ -80,13 +80,13 @@
    {
       "name":"diema-online",
       "displayName":"Diema",
-      "imageUrl":"https://res.cloudinary.com/sucimages/image/upload/v1658432844/Diema_logo.png",
+      "imageUrl":"https://res.cloudinary.com/sucimages/image/upload/v1658433346/Diema_logo.png",
       "sourceUrl":"http://iptv-bg.com/diema-online/"
    },
    {
       "name":"diema-family-online",
       "displayName":"Diema Family",
-      "imageUrl":"https://res.cloudinary.com/sucimages/image/upload/v1658432844/Diema_logo.png",
+      "imageUrl":"https://res.cloudinary.com/sucimages/image/upload/v1658433346/Diema_logo.png",
       "sourceUrl":"http://iptv-bg.com/diema-family-online/"
    }   
 ]
